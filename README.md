@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Version B
+# โปรเจกต์ทายเลข เวอร์ชันของเรา
+## วิธีใช้
 =======
-Version A
->>>>>>> feature/readme
+รัน python calc.py
